@@ -45,10 +45,7 @@ namespace Hello_World
 		{
 			
 			// aapt resource value: 0x7f040001
-			public const int button = 2130968577;
-			
-			// aapt resource value: 0x7f040002
-			public const int list_view = 2130968578;
+			public const int list_view = 2130968577;
 			
 			// aapt resource value: 0x7f040000
 			public const int text_view = 2130968576;
